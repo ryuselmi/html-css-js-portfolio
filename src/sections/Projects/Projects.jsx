@@ -12,14 +12,14 @@ function Project() {
         <ProjectCard
           src={numbersFloating}
           link="https://yuselmi-numberguessinggame.netlify.app/"
-          h3="Tic-Tac-Toe"
-          p="Two-Player Game"
+          h3="Number Guessing Game"
+          p="Guess the number in less than 10 tries!"
         />
         <ProjectCard
           src={ticBoard}
           link="https://yuselmitictactoe.netlify.app/"
-          h3="Number Guessing Game"
-          p="Guess the number in less than 10 tries!"
+          h3="Tic-Tac-Toe"
+          p="Two-Player Game"
         />
         <ProjectCard
           src={calcPicture}
