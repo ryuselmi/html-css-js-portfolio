@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 
 This site was deployed using Netlify. Three of my repositories were also deployed thru GitHub. Clicking on the pictures of my projects will take you to the intended site. 
+
+https://yuselmi-rodriguez.netlify.app/
